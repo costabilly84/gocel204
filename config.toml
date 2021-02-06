@@ -1,0 +1,4 @@
+baseURL = "https://car-thingzoofdery.vercel.app"
+languageCode = "en-us"
+title = "Acura RDX 2021 Review"
+theme = "hugo-theme-minos"
